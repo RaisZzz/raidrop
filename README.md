@@ -1,8 +1,8 @@
 # RaiDrop
 
-![npm](https://img.shields.io/npm/v/raidrop?color=brightgreen) ![license](https://img.shields.io/npm/l/raidrop) ![downloads](https://img.shields.io/npm/dt/raidrop)
-
 **RaiDrop** is a package for convenient drag-and-drop functionality in lists (vertical movement only). Fully supports Vue 3 and comes with TypeScript typings.
+
+![npm](https://img.shields.io/npm/v/raidrop?color=brightgreen) ![license](https://img.shields.io/npm/l/raidrop) ![downloads](https://img.shields.io/npm/dt/raidrop)
 
 ---
 
