@@ -114,7 +114,7 @@ export default defineComponent({
 
 ## 📝 License
 
-This project is licensed under the [MIT License](./LICENSE).
+This project is licensed under the [MIT License](https://github.com/RaisZzz/raidrop/blob/main/LICENSE).
 
 ---
 
