@@ -121,7 +121,7 @@ This project is licensed under the [MIT License](./LICENSE).
 ## 💬 Feedback and Support
 
 If you have any questions or suggestions:
-- Create an [issue](https://github.com/your_project/issues)
+- Create an [issue](https://github.com/RaisZzz/raidrop/issues)
 - Contact me via telegram: `@raissound`
 
 ---
