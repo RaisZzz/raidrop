@@ -1,6 +1,6 @@
 {
   "name": "raidrop",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "main": "dist/raidrop.cjs.js",
   "module": "dist/raidrop.es.js",
   "types": "dist/index.d.ts",

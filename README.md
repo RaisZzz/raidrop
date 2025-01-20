@@ -1,4 +1,4 @@
-# Vue Drag-and-Drop List
+# RaiDrop
 
 ![npm](https://img.shields.io/npm/v/raidrop?color=brightgreen) ![license](https://img.shields.io/npm/l/raidrop) ![downloads](https://img.shields.io/npm/dt/raidrop)
 
